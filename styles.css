@@ -1,0 +1,76 @@
+
+
+
+
+body {
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.longpark {
+  color: grey;
+}
+
+div{
+  font-family: 'Playfair Display SC', serif;
+  color: white;
+  text-orientation: upright; width: 30%;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 15px;
+  text-indent: 20px;
+}
+
+.video{
+  margin-left: 700px;
+  margin-right: 125px;
+position: absolute;
+top: 0;
+right: 0;
+margin-top: 150px;
+border-radius: 25px;
+
+}
+
+nav{
+  background-color: rgb(22, 58, 126);
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+}
+li, a, ul{
+  color: white;
+  text-decoration: none;
+  display: inline;
+  padding-left: 80px;
+  font-size: 18px;
+  font-family: 'Itim', cursive;
+  
+}
+a:hover{
+  color: royalblue;
+ 
+}
+
+.map{
+  margin-left: 900px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+p{
+  font-family: 'Itim', cursive;;
+  color: white;
+  font-size: 20px;
+  
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,146 @@
+img{
+  border-radius: 25px;
+  align-items: center;
+  
+}
+
+body{
+  background-size: cover;
+  width: 100%
+}
+
+h1{
+  color: white;
+  font-size: 75px;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+}
+
+div.angie {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+div.cameron {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 36px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+div.brian {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+div.tim {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+div.lauren {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+div.cliff {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+div.rob {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+div.josh {
+  vertical-align: top;
+  display: inline-block;
+  text-align:center;
+  width: 120px;
+  color: white;
+  font-family: 'Playfair Display SC', serif;
+  padding-left: 33px;
+  padding-right: 33px;
+  margin-top: 3%;
+}
+
+img{
+  width: 120px;
+  height: 120px;
+  
+
+}
+
+.caption{
+  display: block;
+}
+
+nav{
+  background-color: rgb(22, 58, 126);
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+  
+  
+}
+
+nav a{
+  text-decoration: none;
+  font-family: 'Itim', cursive;
+  padding-left: 200px;
+  color: white;
+  font-size: 18px;
+  
+}
+
+a:hover{
+  color:royalblue;
+  
+}
+

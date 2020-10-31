@@ -1,0 +1,83 @@
+table, th, td {
+  
+  width: 50%;
+  font-family: 'Playfair Display SC', serif;
+  color:white;
+  text-align: center; 
+  font-size: 15px;
+  padding-right: 25px;
+  padding-top: 5px;
+  
+  
+}
+
+b{
+  font-size: 20px;
+}
+
+
+
+
+p{font-size:50px;}
+
+
+
+h1{
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+  color: white;
+  margin-top: 15px;
+  
+  
+
+}
+
+body{background-size:cover;}
+
+.nav a{
+  font-family: 'Itim', cursive;
+  padding-left: 160px;
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;}
+
+.bracket{
+  margin-left: 25%;
+  height: 50%;
+  margin-top: 3%;
+  border-style: 5px solid;
+  border-left: solid;
+  border-top: solid;
+  border-bottom: solid;
+  border-right: solid;
+  
+  
+}
+
+nav{
+  background-color: rgb(22, 58, 126);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  
+}
+
+a:hover{
+  color: royalblue;
+}
+
+.class1{
+  background-color: darkgrey;
+  text-align: center;
+  position: relative;
+  left: 10px;
+}
+  
+.vsa{
+  mix-blend-mode: lighten;
+  width: 50px;
+  height: 50px;
+  margin-left: 50px;
+}
+
+
